@@ -10,7 +10,7 @@ You are welcome to send me some email (yvanbrito96@gmail.com) with any comments 
 
 This is a piece of code for test
 
-```typescript
+```js
 import { createRoot } from 'react-dom/client';
 
 interface HelloMessageProps {
