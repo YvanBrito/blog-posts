@@ -18,9 +18,9 @@ interface HelloMessageProps {
 }
 
 function HelloMessage({ name }: HelloMessageProps) {
-  return <div>Hello {name}</div>;
+  return &lt;div&gt;Hello {name}&lt;/div&gt;;
 }
 
 const root = createRoot(document.getElementById('container'));
-root.render(<HelloMessage name="Taylor" />);
+root.render(&lt;HelloMessage name="Taylor" /&gt;);
 ```
