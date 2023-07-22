@@ -1,4 +1,4 @@
-**My First Post**
+# My First Post
 
 This is my first post on my blog, and it feels like a great achievement to me. With this blog, I am able to:
 
