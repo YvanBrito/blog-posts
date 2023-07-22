@@ -1,20 +1,20 @@
-# My first Post
+**My First Post**
 
-This is my first post in my blog. This is a great achievement to me because with this blog I am able to:
+This is my first post on my blog, and it feels like a great achievement to me. With this blog, I am able to:
 
-- Describe my previuos experiences;
-- Learning something new to me and shared this new knowledge
-- Share some news that I find interisting and etc.
+1. Describe my previous experiences.
+2. Learn something new and share this newfound knowledge.
+3. Share some interesting news, and more.
 
-You are welcome to send me some email (yvanbrito96@gmail.com) with any comments about my next posts. Greetings!!!
+You are welcome to send me an email (`yvanbrito96@gmail.com`) with any comments about my upcoming posts. Greetings!
 
-This is a piece of code for test
+---
 
-```js
+```jsx
 import { createRoot } from 'react-dom/client';
 
 interface HelloMessageProps {
-  name: string
+  name: string;
 }
 
 function HelloMessage({ name }: HelloMessageProps) {
