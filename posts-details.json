@@ -4,6 +4,6 @@
     "slug": "first-post",
     "description":
       "Describing the blog",
-    "coverImg": "jscode01.jpg"
+    "coverImg": "https://raw.githubusercontent.com/YvanBrito/blog-posts/main/assets/img/jscode01.jpeg"
   }
 ]
