@@ -10,8 +10,6 @@ This is my first post on my blog, and it feels like a great achievement to me. W
 
 You are welcome to send me an email (`yvanbrito96@gmail.com`) with any comments about my upcoming posts. Greetings!
 
----
-
 ```jsx
 import { createRoot } from 'react-dom/client';
 
