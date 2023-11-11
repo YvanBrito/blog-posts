@@ -3,6 +3,7 @@
     "title": "My first Post",
     "slug": "first-post",
     "description":
-      "Describing the blog"
+      "Describing the blog",
+    "coverImg": "jscode01.jpg"
   }
 ]
