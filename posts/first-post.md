@@ -1,6 +1,6 @@
 # My First Post
 
-![Javascript code](https://raw.githubusercontent.com/YvanBrito/blog-posts/main/assets/img/jscode01.jpg)
+<img src="https://raw.githubusercontent.com/YvanBrito/blog-posts/main/assets/img/jscode01.jpeg" alt="drawing" width="500" />
 
 This is my first post on my blog, and it feels like a great achievement to me. With this blog, I am able to:
 
