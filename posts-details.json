@@ -5,5 +5,12 @@
     "description":
       "Describing the blog",
     "coverImg": "https://raw.githubusercontent.com/YvanBrito/blog-posts/main/assets/img/jscode01.jpeg"
+  },
+  {
+    "title": "My second Post",
+    "slug": "second-post",
+    "description":
+      "Describing the blog",
+    "coverImg": "https://raw.githubusercontent.com/YvanBrito/blog-posts/main/assets/img/jscode01.jpeg"
   }
 ]
