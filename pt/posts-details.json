@@ -1,0 +1,9 @@
+[
+  {
+    "title": "Minha primeira postagem",
+    "slug": "first-post",
+    "description":
+      "Descrevendo o blog",
+    "coverImg": "https://raw.githubusercontent.com/YvanBrito/blog-posts/main/assets/img/jscode01.jpeg"
+  }
+]
